@@ -1,0 +1,17 @@
+{
+  "jenkins_user": "your.name@oracle.com",
+  "jenkins_token": "",
+  "jira_token": "",
+  "email_to": "your.name@oracle.com",
+  "email_from": "your.name@oracle.com",
+  "smtp_host": "localhost",
+  "smtp_port": 25,
+  "smtp_starttls": false,
+  "smtp_user": "",
+  "smtp_password": "",
+  "delivery_mode": "email",
+  "slack_enabled": false,
+  "slack_token": "",
+  "http_proxy": "http://www-proxy-idc.in.oracle.com:80",
+  "https_proxy": "http://www-proxy-idc.in.oracle.com:80"
+}

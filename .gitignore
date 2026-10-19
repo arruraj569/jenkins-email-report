@@ -1,0 +1,15 @@
+/config/
+/state/
+/reports/
+/logs/
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
